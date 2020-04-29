@@ -18,6 +18,7 @@
     <modules>
         <module>springboot-rocketmq-producer</module>
         <module>springboot-rocketmq-consumer</module>
+        <module>rocketmq-simple</module>
     </modules>
 
     <properties>
